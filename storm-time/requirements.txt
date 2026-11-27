@@ -1,0 +1,12 @@
+numpy>=1.26
+pandas>=2.1
+scipy>=1.11
+matplotlib>=3.8
+pyarrow>=14
+requests>=2.31
+pytest>=8
+# added from Day 2 on:
+# torch>=2.2
+# optuna>=3.5
+# scikit-learn>=1.4
+# captum>=0.7
